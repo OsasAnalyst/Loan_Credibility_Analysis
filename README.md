@@ -173,6 +173,8 @@ The following visualizations were created using Python to further illustrate the
    plt.title('Average Loan Amount by Employment Status')
    plt.show()
    ```
+   ![Average Loan Amount by Employment Status](https://github.com/user-attachments/assets/44f06f02-f5ff-4052-ba81-951ea1dfacc5)
+
 
 2. **Loan Approval Rates by Marital Status**
    ```python
@@ -181,6 +183,8 @@ The following visualizations were created using Python to further illustrate the
    plt.title('Loan Approval Rates by Marital Status')
    plt.show()
    ```
+   ![Loan Approval by Marital Status](https://github.com/user-attachments/assets/81c0ddb1-acd2-4a66-8f79-e62729f9d1fb)
+
 
 3. **Monthly Loan Payments by Credit Score Category**
    ```python
@@ -189,6 +193,8 @@ The following visualizations were created using Python to further illustrate the
    plt.title('Monthly Loan Payments by Credit Score Category')
    plt.show()
    ```
+   ![Monthly Loan Payment by Credit Score Category](https://github.com/user-attachments/assets/43cc3d30-6346-429d-84a5-69905873ea95)
+
 
 4. **Total Loan Amounts by Loan Purpose**
    ```python
@@ -201,6 +207,8 @@ The following visualizations were created using Python to further illustrate the
    plt.xticks(rotation=45)
    plt.show()
    ```
+   ![Total Loan Amount by Loan Purpose](https://github.com/user-attachments/assets/69e0d24c-ae7f-4876-8eb0-f6fc8df265d1)
+
 
 5. **Loan Approval Rates by Education Level**
    ```python
@@ -212,6 +220,8 @@ The following visualizations were created using Python to further illustrate the
    plt.legend(title='Loan Approved', loc='upper right')
    plt.show()
    ```
+   ![Loan Approval Rate by Education Level](https://github.com/user-attachments/assets/72e83dc6-22da-4c86-9029-528cdbc95d9f)
+
 
 ### Limitations
 - **Data Quality**: The analysis is dependent on the quality of the historical data. Missing or inaccurate data can lead to misleading results.
